@@ -12,7 +12,7 @@ const Messenger = lazy(() => import('./components/Messenger'));
 
 function App() {
 
-  const clientId = '246648691460-bsj1rub53iami1btvii0577h1on2je01.apps.googleusercontent.com';
+  const clientId = '962119898783-e3omu3s15vubm8cvq6g67040slap01ac.apps.googleusercontent.com';
 
   return (
     <GoogleOAuthProvider clientId={clientId}>
